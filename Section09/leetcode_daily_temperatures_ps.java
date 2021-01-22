@@ -2,7 +2,7 @@ package Section09;
 
 import java.util.*;
 /*
- * 풀이 시간: 10분  
+ * 풀이 시간: 7분  
  * 시간 복잡도 : O(N^2)
  * 풀이 방법 : Nested For Loop 
  *     i       0    1   2   3   4   5   6   7
