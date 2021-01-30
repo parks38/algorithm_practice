@@ -7,7 +7,7 @@
 | Question | Topic | Source |
 | ------------- | ------------- | ------------- |
 | 순위  | Floyd–Warshall algorithm  | Programmers |
-| 등교길  | Dynamic Programming  | Programmers |
+| 등길  | Dynamic Programming  | Programmers |
 | 단어변환  |   | Programmers |
 | 소수찾기  |  | Programmers |
 | 조이스틱  |   | Programmers |
