@@ -55,4 +55,6 @@
 | ------------- | ------------- | ------------- |
 | Add Two Numbers  | linked-lists  | LeetCode |
 | First And Last Position  | Binary Search Problem | LeetCode |
+| inValid  | Stack | LeetCode |
+| 주식 가격  | Queue | Programmers |
 
