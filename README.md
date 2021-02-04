@@ -11,7 +11,7 @@
 | 단어변환  |   | Programmers |
 | 소수찾기  |순열 + 에레토스테네스(소수) | Programmers |
 | 조이스틱  | Greedy  | Programmers |
-| 디스크컨트롤러  |  | Programmers |
+| 디스크컨트롤러  | 우선순위 | Programmers |
 | 전화번호목록  |  | Programmers |
 <br>
 
