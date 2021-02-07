@@ -2,6 +2,20 @@
 
 ## 🌈 Table of Content
 
+### 📍 Section11
+
+| Question | Topic | Source |
+| ------------- | ------------- | ------------- |
+| 여행경로  | DFS | Programmers |
+| 이중 우선순위큐  | Priority<Queue>  | Programmers |
+| N으로 표현  |  Dynamic Programming  | Programmers |
+| 입국 심사  | Binary Search | Programmers |
+| 합승 택시 요금  |   | Programmers |
+| 윷놀이  |   | Programmers |
+| 광고 삽입  | HEAP | Programmers |
+| 디스크컨트롤러  | HEAP | Programmers |
+<br>
+
 ### 📍 Section10
 
 | Question | Topic | Source |
@@ -11,7 +25,6 @@
 | 단어변환  |   | Programmers |
 | 소수찾기  |순열 + 에레토스테네스(소수) | Programmers |
 | 조이스틱  | Greedy  | Programmers |
-| 디스크컨트롤러  | 우선순위 | Programmers |
 | 전화번호목록  |  | Programmers |
 <br>
 
