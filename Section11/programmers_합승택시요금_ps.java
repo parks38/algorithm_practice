@@ -18,17 +18,21 @@ public class programmers_합승택시요금_ps {
         int max = n * 100000;
         int answer = max;
         int[][] map = new int[n+1][n+1];
+        // 1. 인접 행렬 초기화
         for(int i = 1; i <= n; i++){
             for(int j =1; j <= n; j++){
                 if(i == j) map[i][i] = 0;
                 else map[i][j] = max;
             }
         }
+
+        // 2. 요금 주입 - 주어진 값 인접 행렬에 넣기
          for(int i = 0 ; i < fares.length; i++){
             map[fares[i][0]][fares[i][1]] = fares[i][2];
             map[fares[i][1]][fares[i][0]] = fares[i][2];
         }
 
+         // 3. 각 index에서 최소값 update 해주기
         for(int i = 1; i <= n; i++) {
             for(int j = 1; j <= n; j++) {
                 for(int k = 1; k <= n; k++ ){
@@ -38,6 +42,7 @@ public class programmers_합승택시요금_ps {
             }
         }
 
+        // 4. s 시작 i 를 거쳐서 각 a , b 까지의 최소값 구하기
         for(int i = 1; i <= n; i++){
             answer = Math.min(answer, map[s][i] + map[i][a] + map[i][b]);
         }
