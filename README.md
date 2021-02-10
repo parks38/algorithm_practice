@@ -8,11 +8,10 @@
 | ------------- | ------------- | ------------- |
 | 여행경로  | DFS | Programmers |
 | 이중 우선순위큐  | Priority<Queue>  | Programmers |
-| N으로 표현  |  Dynamic Programming  | Programmers |
+| N으로 표현  |  DFS  | Programmers |
 | 입국 심사  | Binary Search | Programmers |
-| 합승 택시 요금  |   | Programmers |
-| 윷놀이  |   | Programmers |
-| 광고 삽입  | HEAP | Programmers |
+| 합승 택시 요금  | Floyd Warshall  | Programmers |
+| 광고 삽입  |  | Programmers |
 | 디스크컨트롤러  | HEAP | Programmers |
 <br>
 
