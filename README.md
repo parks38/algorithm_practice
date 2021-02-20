@@ -17,9 +17,9 @@
 
 | Question | Topic | Source |
 | ------------- | ------------- | ------------- |
-| 이진 변환 반복하기  |  | Programmers |
-| 영어 끝말 잇기  |   | Programmers |
-| 경주로 건설  |  | Programmers |
+| 이진 변환 반복하기 | - | Programmers |
+| 영어 끝말 잇기  |  HashSet | Programmers |
+| 경주로 건설  | BFS | Programmers |
 | 셔틀버스  |   | Programmers |
 | 길 찾기 게임  |  | Programmers |
 <br>
