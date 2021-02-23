@@ -10,7 +10,7 @@
 | 자물쇠열쇠  |   | Programmers |
 | 보석 쇼핑  | Two Pointer   | Programmers |
 | 외벽점검 |  | Programmers |
-| 가지국설치 |   | Programmers |
+| 가지국설치 | 그리디  | Programmers |
 | 추석 트래픽  |  | Programmers |
 
 ### 📍 Section12
