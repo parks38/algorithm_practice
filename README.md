@@ -2,14 +2,24 @@
 
 ## 🌈 Table of Content
 
+### 📍 Section13
+
+| Question | Topic | Source |
+| ------------- | ------------- | ------------- |
+| 튜플  |  | Programmers |
+| 자물쇠열쇠  |   | Programmers |
+| 보석 쇼핑  |    | Programmers |
+| 외벽점검 |  | Programmers |
+| 가지국설치 |   | Programmers |
+| 추석 트래픽  |  | Programmers |
+
 ### 📍 Section12
 
 | Question | Topic | Source |
 | ------------- | ------------- | ------------- |
-| 이진 변환 반복하기  |  | Programmers |
-| 영어 끝말 잇기  |   | Programmers |
-| 추석 트래픽  |    | Programmers |
-| 경주로 건설  |  | Programmers |
+| 이진 변환 반복하기 | - | Programmers |
+| 영어 끝말 잇기  |  HashSet | Programmers |
+| 경주로 건설  | BFS | Programmers |
 | 셔틀버스  |   | Programmers |
 | 길 찾기 게임  |  | Programmers |
 <br>
