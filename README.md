@@ -2,6 +2,17 @@
 
 ## 🌈 Table of Content
 
+### 📍 Section16
+
+| Question | Topic | Source |
+| ------------- | ------------- | ------------- |
+| 더 맵게  | Priority Queue | Programmers |
+| 2Xn 타일링   | 피보나치  | Programmers |
+| coin Change  | Dynamic Programming  | leetcode |
+| decode String |Stack | leetcode |
+| combination Sum | DFS  | leetcode |
+|   |  | Programmers |
+
 ### 📍 Section15
 
 | Question | Topic | Source |
