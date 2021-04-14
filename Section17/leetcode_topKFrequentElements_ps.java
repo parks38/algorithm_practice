@@ -1,5 +1,6 @@
 package Section17;
 /*
+  시간 복잡도 : O(N)
   풀이방법 :
    - HashpMap Set 으로 나오는 숫자의 unique number 와 나오는 frequency tracking
    - Collection 을 통해 정렬
